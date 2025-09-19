@@ -1,0 +1,2 @@
+test_search_bar[DB_7-Verify search bar-admin-1] → PASSED
+test_search_bar[DB_8-Verify empty search-zzz123-0] → PASSED
