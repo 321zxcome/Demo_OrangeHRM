@@ -1,2 +1,59 @@
 test_search_bar[DB_7-Verify search bar-admin-1] → PASSED
 test_search_bar[DB_8-Verify empty search-zzz123-0] → PASSED
+test_dashboard_case[DB_1-Login page Dashboard-None-dashboard_loaded-True] → PASSED
+test_dashboard_case[DB_1-Login page Dashboard-None-dashboard_loaded-True] → PASSED
+test_login_success → PASSED
+test_dashboard_case[DB_2-Verify Dashboard page title-None-get_title-Dashboard] → PASSED
+test_dashboard_case[DB_2-Verify Dashboard page title-None-get_title-Dashboard] → PASSED
+test_invalid_login[WrongUser123-admin123-Invalid credentials-Invalid Username] → PASSED
+test_dashboard_case[DB_4-Verify Logo-None-dashboard_logo-True] → PASSED
+test_dashboard_case[DB_4-Verify Logo-None-dashboard_logo-True] → PASSED
+test_invalid_login[Admin-wrongpass-Invalid credentials-Invalid Password] → PASSED
+test_dashboard_case[DB_5-Verify breadcrumb-None-dashboard_breadcrumb-Dashboard] → PASSED
+test_dashboard_case[DB_5-Verify breadcrumb-None-dashboard_breadcrumb-Dashboard] → PASSED
+test_invalid_login[--Required-Empty Username & Password] → PASSED
+test_menu_toggle → PASSED
+test_menu_toggle → PASSED
+test_invalid_login[aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa-admin123-Invalid credentials-Too Long Username] → PASSED
+test_search_bar[DB_7-Verify search bar-admin-1] → PASSED
+test_search_bar[DB_7-Verify search bar-admin-1] → PASSED
+test_invalid_login[Admin-aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa-Invalid credentials-Too Long Password] → PASSED
+test_search_bar[DB_8-Verify empty search-zzz123-0] → PASSED
+test_search_bar[DB_8-Verify empty search-zzz123-0] → PASSED
+test_invalid_login[Adm-admin123-Invalid credentials-Too Short Username] → PASSED
+test_login_success → PASSED
+test_login_success → PASSED
+test_invalid_login[Admin-short-Invalid credentials-Too Short Password] → PASSED
+test_invalid_login[WrongUser123-admin123-Invalid credentials-Invalid Username] → PASSED
+test_invalid_login[WrongUser123-admin123-Invalid credentials-Invalid Username] → PASSED
+test_invalid_login[!@#$%-^&*()-Invalid credentials-Special Characters] → PASSED
+test_invalid_login[Admin-wrongpass-Invalid credentials-Invalid Password] → PASSED
+test_invalid_login[Admin-wrongpass-Invalid credentials-Invalid Password] → PASSED
+test_invalid_login[admin-Admin123-Invalid credentials-Case Sensitive] → PASSED
+test_invalid_login[--Required-Empty Username & Password] → PASSED
+test_invalid_login[--Required-Empty Username & Password] → PASSED
+test_invalid_login[aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa-admin123-Invalid credentials-Too Long Username] → PASSED
+test_invalid_login[aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa-admin123-Invalid credentials-Too Long Username] → PASSED
+test_invalid_login[Admin-aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa-Invalid credentials-Too Long Password] → PASSED
+test_invalid_login[Admin-aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa-Invalid credentials-Too Long Password] → PASSED
+test_invalid_login[Adm-admin123-Invalid credentials-Too Short Username] → PASSED
+test_invalid_login[Adm-admin123-Invalid credentials-Too Short Username] → PASSED
+test_invalid_login[Admin-short-Invalid credentials-Too Short Password] → PASSED
+test_invalid_login[Admin-short-Invalid credentials-Too Short Password] → PASSED
+test_invalid_login[!@#$%-^&*()-Invalid credentials-Special Characters] → PASSED
+test_invalid_login[!@#$%-^&*()-Invalid credentials-Special Characters] → PASSED
+test_invalid_login[admin-Admin123-Invalid credentials-Case Sensitive] → PASSED
+test_invalid_login[admin-Admin123-Invalid credentials-Case Sensitive] → PASSED
+test_widgets[DB_9-Quick Launch-quick_lauch-True-6] → FAILED
+test_widgets[DB_9-Quick Launch-quick_lauch-quick_lauch-True-6] → FAILED
+test_widgets[DB_9-Quick Launch-quick_launch-True-6] → FAILED
+test_widgets[DB_9-Quick Launch-quick_launch-True-6] → FAILED
+test_widgets[DB_9-Quick Launch-quick_launch-True-6] → PASSED
+test_widgets[DB_9-Quick Launch-quick_launch-True-6] → FAILED
+test_widgets[DB_10-Time at Work-time_at_work-True-1] → FAILED
+test_widgets[DB_9-Quick Launch-quick_launch-True-6] → PASSED
+test_widgets[DB_10-Time at Work-time_at_work-True-1] → FAILED
+test_widgets[DB_11-My Actions-my_actions-True-2] → FAILED
+test_widgets[DB_9-Quick Launch-quick_launch-True-6] → PASSED
+test_widgets[DB_10-Time at Work-time_at_work-True-1] → PASSED
+test_widgets[DB_11-My Actions-my_actions-True-2] → PASSED
